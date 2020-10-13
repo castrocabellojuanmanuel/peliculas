@@ -1,0 +1,1 @@
+db.estreno.find({'estreno':   {$eq: 2009 } }).pretty()
